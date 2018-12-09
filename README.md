@@ -1,6 +1,9 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+Here is a comment from Winsor
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
+
 
 | Example | Build status |
 |---------|--------------|
